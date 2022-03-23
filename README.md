@@ -1,3 +1,3 @@
 # Clanguage
 studying C language. 
-Repositório a fins de estudar a linguagem de programação C. Constando todos os códigos necessários para a programação!
+Repositório afins de estudar a linguagem de programação C. Constando todos (ou quase) os códigos necessários para a programação!
